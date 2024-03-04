@@ -1,3 +1,8 @@
+# <<Gem Renamed to "Dictable>>
+
+This code will no longer be updated. Please go to https://github.com/matismasters/dictable
+
+
 # EasyToDictateNumbers
 
 GitHub Copilot: EasyToDictateNumbers is an opinionated Ruby gem designed to convert numbers into their spoken equivalents. This gem is particularly useful in situations where precise verbal communication of numbers is required, such as during phone calls or dictation. It makes certain decisions about the "best" way to pronounce numbers, which may be subject to debate.
