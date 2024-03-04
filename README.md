@@ -1,4 +1,4 @@
-# <<Gem Renamed to "Dictable>>
+# <<Gem Renamed to "Dictable">>
 
 This code will no longer be updated. Please go to https://github.com/matismasters/dictable
 
